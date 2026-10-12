@@ -42,9 +42,7 @@ I'm interested in programming, artificial intelligence, and web development. I e
 
 <div align="center">
 
-<a href="https://github.com/yasensamy">
-  <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api?username=yasensamy&show_icons=true&hide_border=true&bg_color=050505&title_color=00F5D4&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a><a href="https://github.com/yasensamy">
+
   <img height="165" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasensamy&layout=compact&hide_border=true&bg_color=050505&title_color=00F5D4&text_color=E6EDF3&langs_count=5" alt="Most used languages"/>
 </a>
 
