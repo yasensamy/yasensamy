@@ -68,7 +68,7 @@ I'm interested in programming, artificial intelligence, and web development. I e
 
 <br/><br/>
 
-<i>Building with curiosity and creativity.</i>
+
 
 <br/><br/>
 
